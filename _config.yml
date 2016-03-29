@@ -1,7 +1,7 @@
 name: 002fa7
 favicon: null
-layout_spectrum: 0.15026165219023824
-typography_spectrum: 0.21950982813723385
+layout_spectrum: 1
+typography_spectrum: 0.31357
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5845216610468924
+  brandStrength: 1
   lightness: 0.9277235383633524
   saturation: 0.9364641101565212
   rhythmicContrast: 0.6723457782063633
